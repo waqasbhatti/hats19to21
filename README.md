@@ -23,7 +23,7 @@ survey (Bhatti et al. 2016)
   href="http://adsabs.harvard.edu/abs/2007ApJ...659.1661F">Fortney et
   al. (2007)</a> in an importable Python dict for convenience
 
-## Python pickles:
+## Python pickles
 
 - `saturns-regressor.pkl`: a pickle of the best `RandomForestRegressor` instance
   chosen by cross-validation for Saturn-class planets
