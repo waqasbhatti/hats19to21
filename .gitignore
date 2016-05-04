@@ -1,0 +1,14 @@
+*.aux
+*.dvi
+*.log
+*.out
+/*.pdf
+00-papers/*.pdf
+junky-template/*.pdf
+*.ps
+*.toc
+*.bbl
+*.blg
+.ipynb_checkpoints
+*data/*.eps
+.R*
