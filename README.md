@@ -38,6 +38,17 @@ The following data files should be included along with this repository:
 
 - `planet-mass-radius-with-errors.csv`: CSV file containing transiting planet
   info from http://exoplanets.org, last updated on 2016-04-12.
+
+
 - `HATS-19b-hatlc.csv.gz`: the HATSouth light curve for HATS-19b.
 - `HATS-20b-old-hatlc.csv.gz`: the HATSouth light curve for HATS-20b.
 - `HATS-21b-old-hatlc.csv.gz`: the HATSouth light curve for HATS-21b.
+
+
+- `HATS-19b-RVs.txt`: radial velocities and bisector spans for HATS-19b
+- `HATS-20b-RVs.txt`: radial velocities and bisector spans for HATS-19b
+- `HATS-21b-RVs.txt`: radial velocities and bisector spans for HATS-19b
+
+
+- `HATS-19-astraluxsur-bestframe.fits`: the best combined frame from Astra Lux Sur lucky imaging camera for HATS-19
+- `HATS-20-astraluxsur-bestframe.fits`: the best combined frame from Astra Lux Sur lucky imaging camera for HATS-19
