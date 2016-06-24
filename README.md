@@ -9,6 +9,15 @@ survey (Bhatti et al. 2016)
   random forest regression on the observed planet radii given several other
   planet features
 
+This notebook requires the following modules:
+
+- numpy (http://www.numpy.org/)
+- scipy (http://scipy.org/scipylib/index.html)
+- pyfits (or astropy.fits; http://www.stsci.edu/institute/software_hardware/pyfits)
+- matplotlib (http://matplotlib.org/)
+- Jupyter and IPython (http://ipython.org/)
+- scikit-learn (http://www.scikit-learn.org)
+
 ## Python modules
 
 - `hatlc.py`: to read new-format HAT LCs
