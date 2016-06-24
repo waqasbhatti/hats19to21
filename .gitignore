@@ -4,7 +4,6 @@
 *.out
 /*.pdf
 00-papers/*.pdf
-junky-template/*.pdf
 *.ps
 *.toc
 *.bbl
@@ -12,3 +11,4 @@ junky-template/*.pdf
 .ipynb_checkpoints
 *data/*.eps
 .R*
+*.pyc
