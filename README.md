@@ -24,10 +24,10 @@ This notebook requires the following modules:
 - `oldhatlc.py`: to read older-format HAT LCs (like those from http://hatnet.org
   or http://hatsouth.org)
 - `periodbase.py`: some functions to run period-finding algorithms
-- `glsp.py`: a parallelized Generalized-Lomb-Scargle implementation
+- `glsp.py`: a Generalized-Lomb-Scargle implementation (Zechmeister+ 2009)
 - `varbase.py`: some functions to calculate variability metrics and manipulate
   LCs
-- `plotbase.py`: some functions to plot LCs
+- `plotbase.py`: some functions to plot LCs and LSPs
 - `fortney2k7.py`: planet models from <a
   href="http://adsabs.harvard.edu/abs/2007ApJ...659.1661F">Fortney et
   al. (2007)</a> in an importable Python dict for convenience
