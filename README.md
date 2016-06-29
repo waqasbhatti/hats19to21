@@ -55,3 +55,5 @@ The following data files should be included along with this repository:
 - `HATS-21b-RVs.txt`: radial velocities and bisector spans for HATS-21b
 - `HATS-19-astraluxsur-bestframe.fits`: the best combined frame from Astra Lux Sur lucky imaging camera for HATS-19
 - `HATS-20-astraluxsur-bestframe.fits`: the best combined frame from Astra Lux Sur lucky imaging camera for HATS-20
+- `HATS-19-astraluxsur-contrastcurve.txt`: the 5-sigma contrast curve for HATS-19
+- `HATS-20-astraluxsur-contrastcurve.txt`: the 5-sigma contrast curve for HATS-20
