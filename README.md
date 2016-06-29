@@ -1,13 +1,14 @@
-This repository contains the following files that go along with the paper:
+This repository contains the Jupyter notebook and supporting files for the
+paper:
 
 HATS-19b, HATS-20b, HATS-21b: three transiting hot-Saturns from the HATSouth
 survey (Bhatti et al. 2016)
 
 ## Jupyter notebook
 
-- `hats19to21.ipynb`: contains code to reproduce some of the plots and perform
-  random forest regression on the observed planet radii given several other
-  planet features
+- `hats19to21.ipynb`: contains code to reproduce some of the plots in the paper
+  and perform random forest regression on the observed planet radii given
+  several other planet features
 
 This notebook requires the following modules:
 
